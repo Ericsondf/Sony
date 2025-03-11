@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forum Duvidas 😩</title>
+</head>
+
+<body>
+    <!-- Paragrafo e elementos de texto -->
+
+    <div style="text-align:center"><i><u>Olá a todos!</u>
+        <br>Sejam bem-vindos ao nosso fórum de dúvidas! Este espaço foi criado para ajudar a resolver as questões que surgem
+        <br>durante os estudos, seja sobre conteúdos das aulas, tarefas, exames ou até mesmo dúvidas sobre o
+        funcionamento do nosso ambiente acadêmico.</i></div>
+    <!-- Ctrl ; -->
+    <p>
+        <i><b><del>Olá a todos!</del>
+                Sejam bem-vindos ao nosso fórum de dúvidas!
+                <p>Este espaço foi criado para ajudar a resolver as questões que surgem durante os estudos, seja sobre
+                    conteúdos das aulas, tarefas,exames
+
+                </p> ou até mesmo dúvidas sobre o funcionamento do nosso ambiente acadêmico.</i></b>
+
+        <sub>
+            O uso do sub e pra legendas de texto pequenas( menor tamanho )
+        </sub>
+
+        <sup>Comando de <br />alinhamento superior, linhas</sup>
+
+        <br />Este espaço foi criado para ajudar a resolver as questões que surgem durante os estudos, <br />seja sobre
+        conteúdos das aulas,
+        <hr /> tarefas,exames
+
+
+
+    </p>
+    <!-- hierarquia -->
+
+ <div style="text-align:center"><h1>LiveRosin</h1</div>
+    <h2>Iceolator</h2>
+    <h3>Dry-shift</h3>
+    <h4>Charas</h4>
+    <h5>BHO</h5>
+    <h6>OUTROS</h6>
+
+    <!-- Quebra de linha -->
+
+
+
+
+<script src="./listaon/listaon.js"></script>
+</body>
+
+</html>
